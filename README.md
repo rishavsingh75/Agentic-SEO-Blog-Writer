@@ -218,11 +218,7 @@ INSTAGRAM: Agentic AI isn't coming — it's here 🤖
 
 ---
 
-## 🔒 Security Notes
 
-- API keys are entered via `getpass` and stored only in memory for the session
-- Keys are **never written** to the notebook or any file
-- Do **not** hardcode API keys directly into the notebook before pushing to GitHub
 
 ---
 

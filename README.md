@@ -1,4 +1,4 @@
-# 🤖 Autonomous Agentic SEO Blog Writer v2
+# 🤖 Autonomous Agentic SEO Blog Writer 
 
 > **Real-Time US Trending Topics + 7 AI Agents + Beautiful Gradio UI**  
 > Fully autonomous pipeline that discovers live trending topics, researches them with real data, and writes publication-ready 1500+ word SEO blog posts — end-to-end, zero manual input.

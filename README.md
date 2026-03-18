@@ -242,12 +242,7 @@ Python **3.8+** required.
 
 ---
 
-## 🤝 AI Credits
 
-Built with assistance from:
-**Claude** (Anthropic) · **Copilot** (Microsoft) · **Gemini** (Google) · **ChatGPT** (OpenAI) · **Perplexity AI**
-
----
 
 ## 📜 License
 
